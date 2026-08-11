@@ -9,13 +9,6 @@ Every example runs with **zero API keys** against a small deterministic
 stand-in model (`src/offline_llm.py`), and every module documents
 exactly what changes to run it against a real LLM instead.
 
-This is project 1 of a 2-part CrewAI mini-portfolio, itself part of a
-larger semantics/ontology/agent-frameworks portfolio. See also:
-
-- [`crewai-lng-maintenance-crew`](../crewai-lng-maintenance-crew) — a sequential crew grounded in an LNG plant knowledge graph
-- [`crewai-manufacturing-quality-crew`](../crewai-manufacturing-quality-crew) — a crew grounded in a SOSA/SSN manufacturing digital twin, with sequential and hierarchical variants
-- [`semantics-ontology-tutorial`](../semantics-ontology-tutorial) and its two applied siblings — the ontology/knowledge-graph side of this same portfolio, using LangGraph for orchestration instead of CrewAI
-
 ## Why offline-by-default
 
 CrewAI drives every agent by calling an LLM. Rather than requiring a
