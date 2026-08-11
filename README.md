@@ -1,6 +1,6 @@
 # CrewAI Multi-Agent Orchestration: A Practical Tutorial
 
-A hands-on, code-first tour of [CrewAI](https://docs.crewai.com):
+This repo is a hands-on, code-first tour of [CrewAI](https://docs.crewai.com):
 Agents, Tasks, Crews, the Sequential and Hierarchical processes, custom
 Tools, and — the module everything else builds toward — **grounding an
 agent's answers in real data instead of letting it guess**.
